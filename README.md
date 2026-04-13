@@ -37,14 +37,5 @@ The system can both **identify** and **locate** objects in images, making it sui
 
 ---
 
-## 📂 Project Structure
-Aerial-Object-Classification-Detection/
-│
-├── src/ # Training & preprocessing scripts
-├── models/ # Saved trained models
-├── dataset/ # Dataset (images/videos)
-├── app.py # Web application
-├── requirements.txt # Dependencies
-└── README.md # Documentation
 
 
