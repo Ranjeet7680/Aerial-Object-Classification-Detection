@@ -1,41 +1,27 @@
 # 🚀 Aerial Object Classification & Detection
 
-A deep learning-based computer vision project that detects and classifies aerial objects such as **birds 🐦 and drones 🚁** using advanced machine learning techniques.
-
----
-
-## 📌 Overview
-
-This project focuses on solving a real-world problem: distinguishing between **birds and drones in aerial environments**.
-
-It combines:
-- 🧠 Image Classification (CNN / Transfer Learning)
-- 🎯 Object Detection (YOLO)
-
-The system can both **identify** and **locate** objects in images, making it suitable for real-time applications like surveillance and airspace monitoring.
+A deep learning project to detect and classify aerial objects like **birds 🐦 and drones 🚁** using CNN and YOLO models.
 
 ---
 
 ## ✨ Features
-
-- 🔍 Accurate classification of aerial objects (Bird vs Drone)
-- 📦 Object detection with bounding boxes
-- ⚡ Real-time prediction capability
-- 🌐 Streamlit-based web interface (optional)
-- 📊 Model evaluation and performance metrics
-- 🔄 Data preprocessing & augmentation
+- 🧠 Image Classification (Bird vs Drone)
+- 🎯 Object Detection (YOLO)
+- 📦 Bounding box visualization
+- ⚡ Real-time prediction
 
 ---
 
 ## 🏗️ Tech Stack
-
-- **Language:** Python  
-- **Libraries:** TensorFlow, Keras, PyTorch, OpenCV  
-- **Model:** YOLOv8 (Object Detection), CNN (Classification)  
-- **Tools:** NumPy, Pandas, Matplotlib  
-- **Deployment:** Streamlit  
+- Python, TensorFlow, PyTorch, OpenCV  
+- YOLOv8, CNN  
+- Streamlit  
 
 ---
 
-
-
+## ▶️ Usage
+```bash
+git clone https://github.com/Ranjeet7680/Aerial-Object-Classification-Detection.git
+cd Aerial-Object-Classification-Detection
+pip install -r requirements.txt
+python app.py
