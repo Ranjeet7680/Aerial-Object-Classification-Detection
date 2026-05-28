@@ -1,9 +1,7 @@
-tensorflow-cpu
-ultralytics
-streamlit
-matplotlib
-seaborn
-scikit-learn
-Pillow
-numpy
-opencv-python-headless
+streamlit==1.32.0
+tensorflow-cpu==2.15.1
+ultralytics==8.4.33
+Pillow==10.4.0
+numpy==1.24.3
+opencv-python-headless==4.10.0.84
+protobuf==3.20.3

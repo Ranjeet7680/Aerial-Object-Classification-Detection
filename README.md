@@ -1,6 +1,6 @@
 # Aerial Object Classification & Detection
 
-A deep learning project to detect and classify aerial objects like **birds  and drones ** using CNN and YOLO models.
+A deep learning project to detect and classify aerial objects like **birds  and drones** using CNN and YOLO models.
 
 ---
 
