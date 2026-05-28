@@ -1,4 +1,4 @@
-tensorflow
+tensorflow-cpu
 ultralytics
 streamlit
 matplotlib
@@ -6,4 +6,4 @@ seaborn
 scikit-learn
 Pillow
 numpy
-opencv-python
+opencv-python-headless
