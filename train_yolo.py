@@ -1,5 +1,4 @@
-from ultralytics import YOLO
-
+from ultralytics.models import YOLO
 # Load a pretrained YOLOv8n model
 model = YOLO('yolov8n.pt')
 

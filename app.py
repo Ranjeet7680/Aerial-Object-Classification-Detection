@@ -1,6 +1,6 @@
 import streamlit as st
 import tensorflow as tf
-from ultralytics import YOLO
+from ultralytics.models import YOLO
 from PIL import Image
 import numpy as np
 import os
